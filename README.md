@@ -4,6 +4,6 @@ Hotel website using HTML|CSS|JS .Website is build on asymetric design layout and
 # Project images
 <p style="display:flex;justify-content:space-between;">
 <img src="https://github.com/Sagarnaikg/Hotel-website/blob/master/phone.png" width=80px />
-<img src="https://github.com/Sagarnaikg/Hotel-website/blob/master/tablet.png" width=200px />
+<img src="https://github.com/Sagarnaikg/Hotel-website/blob/master/tablet.png" width=170px />
 <img src="https://github.com/Sagarnaikg/Hotel-website/blob/master/pc.png" width=600px />
  </p>
