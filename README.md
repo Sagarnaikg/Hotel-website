@@ -9,4 +9,6 @@ It provides the user to view diffrent hotel pictures and book a room in any hote
 * HTML5
 * CSS3
 
+View the website :- [Live demo](https://sagarnaikg.github.io/Hotel-website/)
+
 
